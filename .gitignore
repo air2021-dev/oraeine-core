@@ -1,0 +1,46 @@
+# Build artifacts
+/build/
+/out/
+/.gradle/
+/.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Kotlin specific
+*.kotlin_module
+
+# IDE specific
+*.iml
+*.ipr
+*.iws
+
+# Gradle Wrapper
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Maven artifacts (in case of multi-tool usage)
+/target/
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# IntelliJ project settings
+.idea/
+*.iml
+
+# JitPack Metadata
+/jitpack.yml
